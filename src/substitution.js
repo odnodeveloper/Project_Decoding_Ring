@@ -60,6 +60,7 @@ const substitutionModule = (function () {
     }
   }
 
+  console.log(substitution('message', 'plmoknijbuhvygctfxrdzeswaq'))
   return {
     substitution,
   };

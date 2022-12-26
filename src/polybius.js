@@ -85,6 +85,8 @@ const polybiusModule = (function () {
     }
   }
 
+  console.log(polybius('message'));
+
   return {
     polybius,
   };

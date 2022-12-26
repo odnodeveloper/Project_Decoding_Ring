@@ -33,6 +33,7 @@ const caesarModule = (function () {
     return output;
   }
 
+  console.log(caesar('Zebra Magazine', 3))
   return {
     caesar,
   };
