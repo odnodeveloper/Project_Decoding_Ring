@@ -1,4 +1,4 @@
-# Project_Decoder_Ring
+# Decoder Ring
 
 This is an encryption/decryption application to communicate and read top-secret messages.
 
