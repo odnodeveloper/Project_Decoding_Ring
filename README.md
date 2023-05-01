@@ -22,6 +22,6 @@ This application is created utilizing the test-driven development method. It is 
 
 Setup/Installation Requirement
 
-Clone this repository to your local machine
-Open the project in the VSCode
-Run npm start and open it in your browser
+- Clone this repository to your local machine
+- Open the project in the VSCode
+- Run npm start and open it in your browser
